@@ -5,4 +5,5 @@ It also contains the 4 r program classes plot1.r,plot2.r,plot3.r and plot4.r whi
 each class repeats the initial reading and filtering of the file although in a real project that phase would probably be separated out into the getting data and the tidying phase
 Data set
 I captured the whole data set but then filtered on Feb 1 and 2 of 2007 to make the data set smaller so that I did not have to filter repeatedly later on.  
-The r classes are commented to hopefully make them easy to read by the reviewer.   Although I thought of improved techniques to make this easier in the future, I left my ini in the table
+The r classes are commented to hopefully make them easy to read by the reviewer.   Although I thought of improved techniques to make this easier in the future, I left my initial version
+I used readtable and then the dmy and hms functions to add a datetime field to the table with which to draw the x axis.
