@@ -1,6 +1,9 @@
 # ExploratoryDataProject1
 First Project in Exploratory Data Analysis
-This project contains 4 png files named plot1.png,plot2.png,plot3.png and plot4.png
+I forked the intructors original repository as instructed, although I had originally just made a new one.  
+This one uses the same name as the forked repository.
+
+The project contains 4 png files named plot1.png,plot2.png,plot3.png and plot4.png
 It also contains the 4 r program classes plot1.r,plot2.r,plot3.r and plot4.r which generated these 4 pngs
 each class repeats the initial reading and filtering of the file although in a real project that phase would probably be separated out into the getting data and the tidying phase
 Data set
